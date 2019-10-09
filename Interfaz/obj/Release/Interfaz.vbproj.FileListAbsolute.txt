@@ -1,0 +1,199 @@
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbprojResolveAssemblyReference.cache
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.Resources.resources
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.Cache
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.exe
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.pdb
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.xml
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.dll
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.dll
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.pdb
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.xml
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.pdb
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.xml
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.exe
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.xml
+F:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.pdb
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.exe
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.xml
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.pdb
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.exe
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.pdb
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.xml
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.dll
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.dll
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.pdb
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.xml
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.pdb
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.xml
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbprojResolveAssemblyReference.cache
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmRegistrarse.resources
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.Resources.resources
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.Cache
+G:\VB 2010\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmCatalogo.resources
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.exe
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.xml
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbprojResolveAssemblyReference.cache
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmCatalogo.resources
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmRegistrarse.resources
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.Resources.resources
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.Cache
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.exe
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.xml
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.dll
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.dll
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.xml
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.xml
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmGrupos.resources
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.exe
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.pdb
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.exe
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.pdb
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.dll
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.dll
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.pdb
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.pdb
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbprojResolveAssemblyReference.cache
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmCatalogo.resources
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmGrupos.resources
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmRegistrarse.resources
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.Resources.resources
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.Cache
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.exe
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.xml
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.pdb
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.exe
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.pdb
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.xml
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.dll
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.dll
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.pdb
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.xml
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.pdb
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.xml
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbprojResolveAssemblyReference.cache
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmCatalogo.resources
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmGrupos.resources
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmRegistrarse.resources
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.Resources.resources
+F:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.Cache
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.exe
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.pdb
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.xml
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.dll
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.dll
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.pdb
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.xml
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.pdb
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.xml
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbprojResolveAssemblyReference.cache
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmCatalogo.resources
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmGrupos.resources
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmLogin.resources
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmPublicar.resources
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmRegistrarse.resources
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.Resources.resources
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.Cache
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.exe
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.xml
+D:\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.pdb
+F:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.exe
+F:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.xml
+F:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.exe
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.xml
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.exe
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Interfaz.xml
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.dll
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.dll
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\Logica.xml
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\bin\Release\AccesoDatos.xml
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbprojResolveAssemblyReference.cache
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmCatalogo.resources
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmGrupos.resources
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmLogin.resources
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmModerar.resources
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmPublicar.resources
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.frmRegistrarse.resources
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.Resources.resources
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.exe
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.xml
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.pdb
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\bin\Release\Interfaz.exe
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\bin\Release\Interfaz.pdb
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\bin\Release\Interfaz.xml
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\bin\Release\Logica.dll
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\bin\Release\AccesoDatos.dll
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\bin\Release\Logica.pdb
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\bin\Release\Logica.xml
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\bin\Release\AccesoDatos.pdb
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\bin\Release\AccesoDatos.xml
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.frmCatalogo.resources
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.frmGrupos.resources
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.frmLogin.resources
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.frmModerar.resources
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.frmPublicar.resources
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.frmRegistrarse.resources
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.Resources.resources
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\Novelas\Interfaz\obj\Release\Interfaz.frmUsuarios.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.exe
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.xml
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.pdb
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\bin\Release\Interfaz.exe
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\bin\Release\Interfaz.pdb
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\bin\Release\Interfaz.xml
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\bin\Release\Logica.dll
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\bin\Release\AccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\bin\Release\Logica.pdb
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\bin\Release\Logica.xml
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\bin\Release\AccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\bin\Release\AccesoDatos.xml
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.frmCatalogo.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.frmGrupos.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.frmLogin.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.frmModerar.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.frmPublicar.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.frmRegistrarse.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.frmUsuarios.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.Resources.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.Cache
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Interfaz\obj\Release\Interfaz.frmRecuperarPW.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\bin\Release\Interfaz.exe
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\bin\Release\Interfaz.pdb
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\bin\Release\Interfaz.xml
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\bin\Release\Logica.dll
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\bin\Release\AccesoDatos.dll
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\bin\Release\Logica.pdb
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\bin\Release\Logica.xml
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\bin\Release\AccesoDatos.pdb
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\bin\Release\AccesoDatos.xml
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.vbprojAssemblyReference.cache
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.frmCatalogo.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.frmGrupos.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.frmLogin.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.frmModerar.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.frmPublicar.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.frmRecuperarPW.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.frmRegistrarse.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.frmUsuarios.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.Resources.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.vbproj.GenerateResource.cache
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.vbproj.CopyComplete
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.exe
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.xml
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Interfaz\obj\Release\Interfaz.pdb

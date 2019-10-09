@@ -1,0 +1,91 @@
+F:\VB 2010\TP Programacion 2\Proyecto_1\AccesoDatos\bin\Release\AccesoDatos.dll
+F:\VB 2010\TP Programacion 2\Proyecto_1\AccesoDatos\bin\Release\AccesoDatos.pdb
+F:\VB 2010\TP Programacion 2\Proyecto_1\AccesoDatos\bin\Release\AccesoDatos.xml
+F:\VB 2010\TP Programacion 2\Proyecto_1\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+F:\VB 2010\TP Programacion 2\Proyecto_1\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+F:\VB 2010\TP Programacion 2\Proyecto_1\AccesoDatos\obj\Release\AccesoDatos.dll
+F:\VB 2010\TP Programacion 2\Proyecto_1\AccesoDatos\obj\Release\AccesoDatos.xml
+F:\VB 2010\TP Programacion 2\Proyecto_1\AccesoDatos\obj\Release\AccesoDatos.pdb
+F:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.dll
+F:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.pdb
+F:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.xml
+F:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+F:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+F:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.dll
+F:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.xml
+F:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.pdb
+G:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.dll
+G:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.pdb
+G:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.xml
+G:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+G:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+G:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.dll
+G:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.xml
+G:\VB 2010\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.dll
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.xml
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.dll
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.xml
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.pdb
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.dll
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.pdb
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.dll
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.pdb
+F:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.dll
+F:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.pdb
+F:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.xml
+F:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+F:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+F:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.dll
+F:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.xml
+F:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.pdb
+G:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+G:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+D:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.xml
+D:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+D:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+D:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.xml
+D:\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.dll
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\bin\Release\AccesoDatos.xml
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.dll
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.xml
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Users\Alejandro\Desktop\Novelas\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\Alejandro\Desktop\Novelas\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\Alejandro\Desktop\Novelas\AccesoDatos\bin\Release\AccesoDatos.xml
+C:\Users\Alejandro\Desktop\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\Alejandro\Desktop\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\Novelas\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\Alejandro\Desktop\Novelas\AccesoDatos\obj\Release\AccesoDatos.xml
+C:\Users\Alejandro\Desktop\Novelas\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\AccesoDatos\bin\Release\AccesoDatos.xml
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\AccesoDatos\obj\Release\AccesoDatos.xml
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\AccesoDatos\bin\Release\AccesoDatos.xml
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\AccesoDatos\obj\Release\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\AccesoDatos\obj\Release\AccesoDatos.xml
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\AccesoDatos\obj\Release\AccesoDatos.pdb

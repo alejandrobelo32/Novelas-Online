@@ -1,0 +1,133 @@
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\bin\Release\Logica.dll
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\bin\Release\Logica.pdb
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\bin\Release\Logica.xml
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\bin\Release\AccesoDatos.dll
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\bin\Release\AccesoDatos.pdb
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\bin\Release\AccesoDatos.xml
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\obj\Release\Logica.Resources.resources
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\obj\Release\Logica.dll
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\obj\Release\Logica.xml
+F:\VB 2010\TP Programacion 2\Proyecto_1\Logica\obj\Release\Logica.pdb
+F:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\Logica.dll
+F:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\Logica.pdb
+F:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\Logica.xml
+F:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.dll
+F:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.pdb
+F:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.xml
+F:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+F:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.Resources.resources
+F:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+F:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.dll
+F:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.xml
+F:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.pdb
+G:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\Logica.dll
+G:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\Logica.pdb
+G:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\Logica.xml
+G:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.dll
+G:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.pdb
+G:\VB 2010\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.xml
+G:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+G:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.Resources.resources
+G:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+G:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.dll
+G:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.xml
+G:\VB 2010\TP Programacion 2\Novelas\Logica\obj\Release\Logica.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.Resources.resources
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.dll
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.xml
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.dll
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.xml
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.dll
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.pdb
+G:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.dll
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.pdb
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.dll
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.pdb
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.Resources.resources
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.dll
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.xml
+H:\programación 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.pdb
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.dll
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.pdb
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.xml
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.dll
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.pdb
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.xml
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.Resources.resources
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.dll
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.xml
+F:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.pdb
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.dll
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.pdb
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.xml
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.dll
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.pdb
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.xml
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.Resources.resources
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.dll
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.xml
+D:\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.dll
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\Logica.xml
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.dll
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.pdb
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\bin\Release\AccesoDatos.xml
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.Resources.resources
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.dll
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.xml
+G:\TP Programacion 2\TP Programacion 2\TP Programacion 2\Novelas\Logica\obj\Release\Logica.pdb
+C:\Users\Alejandro\Desktop\Novelas\Logica\bin\Release\Logica.dll
+C:\Users\Alejandro\Desktop\Novelas\Logica\bin\Release\Logica.pdb
+C:\Users\Alejandro\Desktop\Novelas\Logica\bin\Release\Logica.xml
+C:\Users\Alejandro\Desktop\Novelas\Logica\bin\Release\AccesoDatos.dll
+C:\Users\Alejandro\Desktop\Novelas\Logica\bin\Release\AccesoDatos.pdb
+C:\Users\Alejandro\Desktop\Novelas\Logica\bin\Release\AccesoDatos.xml
+C:\Users\Alejandro\Desktop\Novelas\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Novelas\Logica\obj\Release\Logica.Resources.resources
+C:\Users\Alejandro\Desktop\Novelas\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\Novelas\Logica\obj\Release\Logica.dll
+C:\Users\Alejandro\Desktop\Novelas\Logica\obj\Release\Logica.xml
+C:\Users\Alejandro\Desktop\Novelas\Logica\obj\Release\Logica.pdb
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\bin\Release\Logica.dll
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\bin\Release\Logica.pdb
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\bin\Release\Logica.xml
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\bin\Release\AccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\bin\Release\AccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\bin\Release\AccesoDatos.xml
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\obj\Release\Logica.Resources.resources
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\obj\Release\Logica.dll
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\obj\Release\Logica.xml
+C:\Users\marin\OneDrive\Escritorio\Programacion\Nuevo\Novelas\Logica\obj\Release\Logica.pdb
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\bin\Release\Logica.dll
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\bin\Release\Logica.pdb
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\bin\Release\Logica.xml
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\bin\Release\AccesoDatos.dll
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\bin\Release\AccesoDatos.pdb
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\bin\Release\AccesoDatos.xml
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\obj\Release\Logica.vbprojAssemblyReference.cache
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\obj\Release\Logica.Resources.resources
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\obj\Release\Logica.vbproj.GenerateResource.cache
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\obj\Release\Logica.vbproj.CopyComplete
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\obj\Release\Logica.dll
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\obj\Release\Logica.xml
+C:\Users\Alejandro2\Desktop\Beltran\Trabajos Practicos\2°\TP Programacion\NovelasM\Logica\obj\Release\Logica.pdb
