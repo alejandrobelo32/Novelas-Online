@@ -11,7 +11,6 @@ Public Class frmLogin
 
     Private Sub btnRegistrarse_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnRegistrarse.Click
 
-
         Using frmR As New frmRegistrarse
 
             Me.Visible = False
